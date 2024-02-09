@@ -1,0 +1,79 @@
+body {
+    font-family: "Raleway", sans-serif;
+}
+#hero img {
+    height:  630px;
+}
+#hero h2 {
+    font-size: 70px;
+    font-weight: 600;
+}
+#hero p {
+    font-size: 16px;
+}
+#aboutMe h2 {
+    font-size: 50px;
+    font-weight: 600;
+}
+#aboutMe p {
+    font-size: 16px;
+    text-align: center;
+}
+#aboutMe h6 {
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
+}
+.material-symbols-outlined {
+    font-size: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+}
+#trabajos h2 {
+    font-size: 50px;
+    font-weight: 600;
+}
+#trabajos p {
+    font-size: 16px;
+    text-align: center;
+}
+#trabajos {
+    background-color: #17A2B8;
+}
+#trabajos img {
+    width: 386.6px;
+    height: 231.96px;
+}
+#trabajos .card {
+    width: 386.6px;
+}
+#trabajos h5 {
+    font-weight: 600;
+    color: #0F0F0F;
+}
+#contacto h2 {
+    font-size: 50px;
+    font-weight: 700;
+}
+#contacto {
+    font-size: 16px;
+}
+#contacto p {
+    font-size: 16px;
+    text-align: center;
+}
+#contacto form {
+    width: 61%;
+}
+#contacto form label {
+    font-weight: 700;
+}
+footer {
+    background-color: #0F0F0F;
+}
